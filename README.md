@@ -1,4 +1,14 @@
-### Hi there 👋
+### Naoki Ito 伊藤直樹
+## 古橋ゼミ　4月のハッカソン
+今回のハッカソンでは古橋研究室で行うガチャガチャの３Dモデリングをドローン部で考えた。
+ドローン部では、Drone BIRDのロゴとPhantom2を優先して作成することにした。その中でも私は、記事作成とフォトグラメタリーの作成を担当した。
+
+medium の記事のURL
+https://medium.com/furuhashilab/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%82%92%E4%BD%9C%E6%88%90-ca9f16ae9f66
+
+チームのgit hubのURL
+
+https://github.com/furuhashilab/hachathon_3dmodel
 
 <!--
 **naoki2123/naoki2123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
